@@ -1,15 +1,15 @@
 # Hi, I'm Saumya 
 
 Software Engineer & AI Engineer. 20+ months of production experience across IBM, AWS, and Sun Life
-Financial — backend systems, distributed infrastructure, and applied AI.
+Financial - backend systems, distributed infrastructure, and applied AI.
 
 ---
 
 ## What I Have Worked On
 
-- Cloud-native microservices (AWS ECS, Lambda, DynamoDB, EventBridge) — 99.9% uptime at 10,000+ RPS
+- Cloud-native microservices (AWS ECS, Lambda, DynamoDB, EventBridge) - 99.9% uptime at 10,000+ RPS
 - Production LLM agents (AWS Bedrock: tool-calling, multi-step reasoning, fine-tuning/RL optimization)
-- Enterprise security & cryptography (FIPS 140-3, SSL/TLS) — remediated a live vulnerability across
+- Enterprise security & cryptography (FIPS 140-3, SSL/TLS) - remediated a live vulnerability across
   10,000+ enterprise deployments
 - Distributed systems (Kafka, async messaging, fault isolation)
 - ML/NLP (Isolation Forest, Random Forest, RAG pipelines, prompt engineering)
@@ -48,7 +48,7 @@ TLS-inspired end-to-end encrypted messaging system.
 
 ## Open Source
 
-- Contributing to [`modelcontextprotocol/java-sdk`](https://github.com/modelcontextprotocol/java-sdk) —
+- Contributing to [`modelcontextprotocol/java-sdk`](https://github.com/modelcontextprotocol/java-sdk) -
   [#400](https://github.com/modelcontextprotocol/java-sdk/issues/400): resolving SSE endpoint URL
   construction to use request context path instead of a fixed base URL *(in progress)*
 
@@ -56,7 +56,7 @@ TLS-inspired end-to-end encrypted messaging system.
 
 ## Interests
 
-Distributed Infrastructure • AI Systems • Security Engineering • Developer Experience
+Distributed Infrastructure • AI Systems • Backend Engineering • Full Stack Developer Experience
 
 ---
 
